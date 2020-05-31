@@ -27,6 +27,10 @@ public class Demo {
 		   System.out.println("hi there");
 		   System.out.println("hi vada");
 		   System.out.println("hi monkey");
+		   System.out.println("hi linta");
+		   System.out.println("hi livya");
+		   System.out.println("hi clari");
+		   System.out.println("hi christy");
 		   
 
 		   
