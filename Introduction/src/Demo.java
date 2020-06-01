@@ -24,6 +24,9 @@ public class Demo {
 		   
 		 //  driver.findElement(By.xpath("//*[@id=\'u_0_2\']")).click();
 		   driver.findElement(By.xpath("//input[@value='Log In']")).click();
+		   System.out.println("Hi there");
+		   System.out.println("Hi there");
+		   System.out.println("Hi there");System.out.println("Hi there");
 		   
             
 		   
